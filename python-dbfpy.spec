@@ -1,7 +1,7 @@
 %define		module	dbfpy
 
 Summary:	Module for accessing .DBF (dBase) files
-Summary(pl):	Modu³ pozwalajacy na dostêp do plików .DBF (dBase)
+Summary(pl.UTF-8):   ModuÅ‚ pozwalajacy na dostÄ™p do plikÃ³w .DBF (dBase)
 Name:		python-%{module}
 Version:	2.1.0
 Release:	0.1
@@ -20,9 +20,9 @@ dbfpy is a python-only module for reading and writing DBF-files. It
 was created by Jeff Kunce and then modified by Hans Fiby and Yaroslav
 Samchuk.
 
-%description -l pl
-dbfpy to czysto pythonowy modu³ do odczytu i zapisu plików DBF. Zosta³
-stworzony przez Jeffa Kunce, a nastêpnie zmodyfikowany przez Hansa
+%description -l pl.UTF-8
+dbfpy to czysto pythonowy moduÅ‚ do odczytu i zapisu plikÃ³w DBF. ZostaÅ‚
+stworzony przez Jeffa Kunce, a nastÄ™pnie zmodyfikowany przez Hansa
 Fiby'ego i Yaroslava Samchuka.
 
 %prep
