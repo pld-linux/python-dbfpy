@@ -1,7 +1,7 @@
 %define		module	dbfpy
 
 Summary:	Module for accessing .DBF (dBase) files
-Summary(pl.UTF-8):   Moduł pozwalajacy na dostęp do plików .DBF (dBase)
+Summary(pl.UTF-8):	Moduł pozwalajacy na dostęp do plików .DBF (dBase)
 Name:		python-%{module}
 Version:	2.1.0
 Release:	0.1
