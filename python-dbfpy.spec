@@ -4,7 +4,7 @@ Summary:	Module for accessing .DBF (dBase) files
 Summary(pl.UTF-8):	Moduł pozwalajacy na dostęp do plików .DBF (dBase)
 Name:		python-%{module}
 Version:	2.2.0
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Development/Languages/Python
 Source0:	http://dl.sourceforge.net/dbfpy/%{module}-%{version}.tar.gz
