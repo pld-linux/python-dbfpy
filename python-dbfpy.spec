@@ -12,6 +12,8 @@ Source0:	http://dl.sourceforge.net/dbfpy/%{module}-%{version}.tar.gz
 URL:		http://dbfpy.sourceforge.net/
 BuildRequires:	python >= 1:2.5
 BuildRequires:	python-devel >= 1:2.5
+BuildRequires:	python-modules
+BuildRequires:	rpm-pythonprov
 %pyrequires_eq	python-modules
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
