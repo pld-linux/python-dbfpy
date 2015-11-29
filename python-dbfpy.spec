@@ -10,6 +10,7 @@ Group:		Development/Languages/Python
 Source0:	http://dl.sourceforge.net/dbfpy/%{module}-%{version}.tar.gz
 # Source0-md5:	1462be16a2c3d9afcca55a981bf2d75d
 URL:		http://dbfpy.sourceforge.net/
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python >= 1:2.5
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	python-modules
